@@ -1,6 +1,6 @@
 /**
  * @file fsm.c
- * @brief Library to create Finite State Machines using composition.
+ * @brief Library to create Finite State Machines using composition
  *
  * This library is expected to be used using composition
  * @author Teachers from the Departamento de Ingeniería Electrónica. Original authors: José M. Moya and Pedro J. Malagón. Latest contributor: Román Cárdenas.
